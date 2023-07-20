@@ -1,2 +1,5 @@
 # evil-simon
-micropython code for RP2040-Zero board
+micropython code and schematic for RP2040-Zero board
+
+# TODO:
+
